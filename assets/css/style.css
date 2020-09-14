@@ -2,3 +2,40 @@
   background: teal;
   color: white;
 }
+
+.h1 {
+  color: teal;
+  
+
+
+
+}
+.form-group {
+    width: 700px;
+    margin: 30px;
+}
+
+.btn {
+    color: white;
+    background-color: teal;
+    height: 75px;
+    width: 125px;
+    margin: 25px; 
+
+}
+
+.btn btn-primary {
+
+        
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: gray;
+    color: lightslategray;
+    text-align: center;
+    height: 50px;
+    border-top: rgb(44, 184, 184) solid 5px;
