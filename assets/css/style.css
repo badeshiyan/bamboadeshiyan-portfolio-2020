@@ -52,5 +52,5 @@ main {
   color: lightslategray;
   text-align: center;
   height: 50px;
-  border-top: rgb(44, 184, 184) solid 5px;
+  border-top: teal solid 5px;
 }
