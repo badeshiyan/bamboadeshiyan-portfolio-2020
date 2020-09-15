@@ -33,6 +33,7 @@ main {
   margin: 30px;
 }
 
+/* form submit button */
 .btn {
   color: white;
   background-color: teal;
@@ -42,7 +43,7 @@ main {
 }
 
 /* .btn btn-primary { */
-
+/* footer */
 .footer {
   position: fixed;
   left: 0;
@@ -53,4 +54,6 @@ main {
   text-align: center;
   height: 50px;
   border-top: teal solid 5px;
+  font: 15px;
+  color: rgb(212, 208, 208);
 }
