@@ -6,7 +6,8 @@ Upon review of this project, the reader will find the editing and overall improv
 
 This effort includes HTML and CSS basics that we've covered thus far in our four class sessions. These include the usage and employment of semantic HTML elements when needed (as opposed to div or more generic tags), the organization and consolidation of redundant CSS properties and its structure, the inclusion of code comments that were not initially included, among other coding basics.
 
-Steps included creating the html, adding bootstrap and css style links to said html, creating a separate css stylesheet; the majority of the work
+Steps included creating the html, adding bootstrap and css style links to said html, creating a separate css stylesheet; the majority of the work involved the styling of the web pages -
+the use of containers, columns, rows and other css tools.
 
 ## Deployed Webpage Link
 
