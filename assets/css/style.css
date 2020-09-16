@@ -49,6 +49,13 @@ main {
   margin: 30px;
 }
 
+#about {
+  float: left;
+  width: 25%;
+  min-width: 200px;
+  margin-right: 20px;
+}
+
 /* form submit button */
 .btn {
   color: white;
