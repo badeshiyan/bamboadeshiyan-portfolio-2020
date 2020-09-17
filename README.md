@@ -4,7 +4,7 @@
 
 It is imperative that the source code written for a web page/application allows said page to be viewed appropriately, regardless of the type of device OR the different sizes of the window or screen being used at the time. This project involved the creation of the developer's personal portfolio and the utilization of responsive design to ensure that, again, the portfolio's web page(s) can be viewed correctly on either a desktop, tablet or even a mobile device. In order to achieve the aforementioned, the developer's steps included creating the html, adding bootstrap and css style links to said html, creating a separate css stylesheet; the majority of the work involved the styling of the web pages, and the use of containers, columns, rows and other css tools.
 
-Using provided screenshots as guide for the intended portfolio, the developer utilized the tools learned from bootstrap, html and css basics,
+Using the provided screenshots as guide for the intended look and feel for the newly created portfolio, the developer utilized the tools learned from bootstrap (grid system), html and css basics.
 
 ## Deployed Webpage Link
 
@@ -21,11 +21,13 @@ https://badeshiyan.github.io/bamboadeshiyan-portfolio-2020/
 
 ## Credits
 
-1. W3schools: https://www.w3schools.com/tags/att_global_class.asp
+1. W3schools: https://www.w3schools.com/
 
 2. Bootstrap: https://getbootstrap.com/
 
 3. Porfolio Placeholder Images: http://placehold.it/350x350
+
+4. MDN web docs: https://developer.mozilla.org/en-US/docs/Web/CSS
 
 ## MIT License
 
