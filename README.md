@@ -17,6 +17,8 @@ https://badeshiyan.github.io/bamboadeshiyan-portfolio-2020/
 
 ![Bambo Adeshiyan](assets/images/screenshotportfolio.png)
 
+![Bambo Adeshiyan](assets/images/screenshotaboutme.png)
+
 ## Credits
 
 1. W3schools: https://www.w3schools.com/tags/att_global_class.asp
