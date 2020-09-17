@@ -1,3 +1,5 @@
+/* stylesheet for portfolio html */
+
 /* html */
 html {
   position: relative;
@@ -44,6 +46,7 @@ main {
   width: auto;
 }
 
+/* form group */
 .form-group {
   width: auto;
   margin: 30px;
