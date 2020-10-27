@@ -1,19 +1,25 @@
 /* stylesheet for portfolio html */
 
 /* html */
-html {
+/* html {
   position: relative;
-}
+} */
 
 body {
-  display: flex;
-  flex-direction: column;
+  /* display: flex; */
+  /* flex-direction: column; */
   background-color: lightgrey;
+  background-size: cover;
+}
+
+i {
+  color: white;
+  font-size: 50px;
 }
 
 /* container/background */
 .white-bg {
-  background: white;
+  background: rgba(255, 255, 255, 0.733);
   margin-right: 20px;
   margin-left: 20px;
   padding-left: 30px;
@@ -23,8 +29,8 @@ body {
   width: 75%;
 }
 
-@include media-breakpoint-up(md) {
-}
+/* @include media-breakpoint-up(md) {
+} */
 
 .content {
   flex: 1 0 auto;
@@ -42,7 +48,7 @@ main {
 }
 
 .h1 {
-  color: teal;
+  color: rgba(0, 128, 128, 0.384);
   width: auto;
 }
 
@@ -71,14 +77,15 @@ main {
 /* .btn btn-primary { */
 /* footer */
 .footer {
-  position: fixed;
+  /* position: fixed; */
   left: 0;
   bottom: 0;
   width: 100%;
   background-color: gray;
   color: lightslategray;
   text-align: center;
-  height: 50px;
+  display: flex;
+  align-items: center;
   border-top: teal solid 5px;
   font: 15px;
   color: rgb(212, 208, 208);
