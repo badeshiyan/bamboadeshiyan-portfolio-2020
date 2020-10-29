@@ -66,7 +66,7 @@ main {
 }
 
 .center {
-  text-align: center;
+  text-align: ;
   /* width: 25%;
   min-width: 200px;
   margin-right: 20px; */
@@ -93,6 +93,7 @@ main {
   text-align: center;
   display: flex;
   align-items: center;
+  margin-top: 150px;
   border-top: rgb(0, 51, 128) solid 5px;
   font: 15px;
   color: rgb(212, 208, 208);
