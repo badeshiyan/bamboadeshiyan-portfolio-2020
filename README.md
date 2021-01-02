@@ -2,7 +2,7 @@
 
 ## Overview:
 
-Below, please find an updated version of my personal responsive portfolio...
+Updated January 2021, below, please find the most recent version of my personal responsive portfolio...
 
 It is imperative that the source code written for a web page/application allows said page to be viewed appropriately, regardless of the type of device OR the different sizes of the window or screen being used at the time. This project involved the creation of the developer's personal portfolio and the utilization of responsive design to ensure that, again, the portfolio's web page(s) can be viewed correctly on either a desktop, tablet or even a mobile device. In order to achieve the aforementioned, the developer's steps included creating the html, adding bootstrap and css style links to said html, creating a separate css stylesheet; the majority of the work involved the styling of the web pages, and the use of containers, columns, rows and other css tools.
 
